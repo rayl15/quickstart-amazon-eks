@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "KeyPairName",
-    "ParameterValue": "eks"
+    "ParameterValue": "override"
   },
   {
     "ParameterKey": "RemoteAccessCIDR",
